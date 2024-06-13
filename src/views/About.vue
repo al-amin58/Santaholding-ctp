@@ -115,7 +115,7 @@ import {
                 </div>
                 <div class="w-1/2">
                     <fwb-accordion flush>
-                        <fwb-accordion-panel>
+                        <fwb-accordion-panel  data-aos="fade-up"  data-aos-duration="3000">
                             <fwb-accordion-header class="text-Color text-2xl">Integrity</fwb-accordion-header>
                             <fwb-accordion-content>
                                 <div>
@@ -126,7 +126,7 @@ import {
                             </fwb-accordion-content>
                         </fwb-accordion-panel>
 
-                        <fwb-accordion-panel>
+                        <fwb-accordion-panel data-aos="fade-up"  data-aos-duration="3200">
                             <fwb-accordion-header class="text-Color text-2xl ">Commitment</fwb-accordion-header>
                             <fwb-accordion-content>
                                 <div>
@@ -137,7 +137,7 @@ import {
                                 </div>
                                 </fwb-accordion-content>
                             </fwb-accordion-panel>
-                        <fwb-accordion-panel>
+                        <fwb-accordion-panel data-aos="fade-up"  data-aos-duration="3400">
                             <fwb-accordion-header class="text-Color text-2xl">Innovation</fwb-accordion-header>
                             <fwb-accordion-content>
                                     <div>
@@ -147,7 +147,7 @@ import {
                                     </div>
                             </fwb-accordion-content>
                         </fwb-accordion-panel>
-                        <fwb-accordion-panel>
+                        <fwb-accordion-panel data-aos="fade-up"  data-aos-duration="3600">
                             <fwb-accordion-header class="text-Color text-2xl">Quality Focus</fwb-accordion-header>
                             <fwb-accordion-content>
                                     <div>
@@ -156,7 +156,7 @@ import {
                                         </p>
                                     </div>
                             </fwb-accordion-content>
-                        </fwb-accordion-panel>
+                        </fwb-accordion-panel data-aos="fade-up"  data-aos-duration="3800">
                         <fwb-accordion-panel>
                             <fwb-accordion-header class="text-Color text-2xl">Agility</fwb-accordion-header>
                             <fwb-accordion-content>
@@ -166,8 +166,8 @@ import {
                                         </p>
                                     </div>
                             </fwb-accordion-content>
-                        </fwb-accordion-panel>
-                        <fwb-accordion-panel>
+                        </fwb-accordion-panel data-aos="fade-up"  data-aos-duration="4000">
+                        <fwb-accordion-panel data-aos="fade-up"  data-aos-duration="4200">
                             <fwb-accordion-header class="text-Color text-2xl">Valuing People</fwb-accordion-header>
                             <fwb-accordion-content>
                                     <div>
